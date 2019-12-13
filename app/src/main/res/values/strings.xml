@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Ask To Agri Expert</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Enter Email</string>
+    <string name="prompt_pass">Enter Password </string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="expert_login">Expert Login</string>
+    <string name="farmer_login">Farmer Login</string>
+    <string name="title_activity_expert_login">Sign in</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_activity_farmer_dashboard">Farmer Dashboard</string>
+    <string name="askquery">Ask Query</string>
+    <string name="asktoexpert">Ask Your Query to Expert</string>
+    <string name="viewallaskedquery">View All Asked Query</string>
+    <string name="recentaskedquery">View All your Recent Asked Query to Expert</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_expert_dashboard">Expert Dashboard</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_farmer_login">Sign in</string>
+    <string name="title_activity_login_demo">Sign in</string>
+    <string name="register">Register</string>
+    <string name="answerquery">Answer Query</string>
+    <string name="viewqueriesbyfarmer">View Queries asked by Farmer and answer them</string>
+    <string name="viewallansweredquery">View All Answered Query</string>
+    <string name="viewallrecentanswers">View All your Recent Answered Query to Farmer</string>
+    <string name="logout">Log Out</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="entername">Enter Your Name</string>
+    <string name="enternumber">Enter your Mobile Number</string>
+    <string name="enterpass">Enter Your Password</string>
+    <string name="confirmpass">Re-enter your Password</string>
+    <string name="farmerregistration">Farmer Registration</string>
+    <string name="expertregistration">Expert Registration</string>
+    <string name="title_activity_splash_screen">Welcome to Agri Expert</string>
+    <string name="hindi">हिंदी</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="english">English</string>
+    <string name="selectlang">Select Language:-</string>
+    <string name="entermail">Enter Mail</string>
+    <string name="digit_number">Mobile Number should be of 10 digits</string>
+</resources>

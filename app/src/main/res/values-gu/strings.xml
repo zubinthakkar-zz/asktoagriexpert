@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" કૃષિ નિષ્ણાતને પૂછો"</string>
+    <string name="recentaskedquery">" નિષ્ણાતને તમારી બધી તાજેતરના પૂછેલી ક્વેરી જુઓ"</string>
+    <string name="permission_rationale">ઇમેઇલ પ્રદાન કરવા માટે સંપર્કો પરવાનગીઓ આવશ્યક છે</string>
+    <string name="title_activity_farmer_dashboard">" ખેડૂત ડેશબોર્ડ"</string>
+    <string name="prompt_password">પાસવર્ડ</string>
+    <string name="prompt_pass">પાસવર્ડ દાખલ કરો</string>
+    <string name="error_invalid_email">આ ઇમેઇલ સરનામું અમાન્ય છે</string>
+    <string name="error_incorrect_password">" આ પાસવર્ડ ખોટો છે"</string>
+    <string name="error_invalid_password">" આ પાસવર્ડ ખૂબ ટૂંકો છે"</string>
+    <string name="error_field_required">" આ ક્ષેત્ર ભરવું જરુરી છે"</string>
+    <string name="title_activity_login">" લૉગિન"</string>
+    <string name="asktoexpert">" નિષ્ણાતને તમારી ક્વેરી પૂછો"</string>
+    <string name="title_activity_expert_dashboard">" નિષ્ણાત ડેશબોર્ડ"</string>
+    <string name="askquery">નિષ્ણાત ને પ્રશ્ન પૂછો</string>
+    <string name="viewallaskedquery">" બધા પૂછવામાં આવેલ ક્વેરી જુઓ"</string>
+    <string name="action_sign_in">" સાઇન ઇન કરો"</string>
+    <string name="action_sign_in_short">" સાઇન ઇન કરો"</string>
+    <string name="title_activity_expert_login">" સાઇન ઇન કરો"</string>
+    <string name="title_activity_farmer_login">" સાઇન ઇન કરો"</string>
+    <string name="title_activity_login_demo">" સાઇન ઇન કરો"</string>
+    <string name="action_settings">સેટિંગ્સ</string>
+    <string name="prompt_email">ઇમેઇલ દાખલ કરો</string>
+    <string name="expert_login">" નિષ્ણાત લૉગિન"</string>
+    <string name="farmer_login">" ખેડૂત પ્રવેશ"</string>
+    <string name="register">" નોંધણી કરો"</string>
+    <string name="answerquery">" ક્વેરીનો જવાબ આપો"</string>
+    <string name="viewallansweredquery">" તમામ ક્વેરીના જવાબ જુઓ"</string>
+    <string name="viewallrecentanswers">તમારા બધા આપેલ ક્વેરીને જવાબ આપ્યા છે તે જુઓ</string>
+    <string name="viewqueriesbyfarmer">ખેડૂત દ્વારા પૂછવામાં આવતા ક્વેરીઝ જુઓ અને તેમને જવાબ આપો</string>
+    <string name="logout">" લૉગ આઉટ"</string>
+    <string name="editprofile">" પ્રોફાઇલ સંપાદિત કરો"</string>
+    <string name="entername">તમારું નામ દાખલ કરો</string>
+    <string name="enternumber">" તમારો મોબાઇલ નંબર દાખલ કરો"</string>
+    <string name="enterpass">" તમારો પાસવર્ડ નાખો"</string>
+    <string name="confirmpass">" તમારો પાસવર્ડ ફરીથી દાખલ કરો"</string>
+    <string name="farmerregistration">" ખેડૂત નોંધણી"</string>
+    <string name="expertregistration">" નિષ્ણાત નોંધણી"</string>
+    <string name="title_activity_splash_screen">કૃષિ નિષ્ણાત પર આપનું સ્વાગત છે</string>
+    <string name="hindi">" હિન્દી"</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="english">English</string>
+</resources>

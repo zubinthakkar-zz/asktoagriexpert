@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "828295885294",
+    "firebase_url": "https://asktoagriexpert.firebaseio.com",
+    "project_id": "asktoagriexpert",
+    "storage_bucket": "asktoagriexpert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828295885294:android:7110305980a6dbd0",
+        "android_client_info": {
+          "package_name": "com.example.zubinthakkar.asktoagriexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828295885294-rel14o77m3jrqsjop9fds6nt7v5ugskf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zubinthakkar.asktoagriexpert",
+            "certificate_hash": "290667cd6bdb7c0188157c3af12dd500556d0fc0"
+          }
+        },
+        {
+          "client_id": "828295885294-0h030oupohd2ag4nmudcqjclcf2cv60p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHugNRq1_tT0DrMBxLOrBS3A0kAq-Psok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828295885294-0h030oupohd2ag4nmudcqjclcf2cv60p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कृषि विशेषज्ञ से पूछें</string>
+    <string name="prompt_email">ईमेल दर्ज करें</string>
+    <string name="prompt_pass">पास वर्ड दर्ज करें</string>
+    <string name="action_sign_in">साइन इन करें</string>
+    <string name="action_sign_in_short">साइन इन करें</string>
+    <string name="error_invalid_email">यह ईमेल अवैध है</string>
+    <string name="error_incorrect_password">यह पासवर्ड गलत है</string>
+    <string name="error_invalid_password">यह पासवर्ड बहुत छोटा है</string>
+    <string name="error_field_required">यह भर्ना आवश्यक है</string>
+    <string name="permission_rationale">ईमेल प्रदान करने के लिए संपर्क अनुमतियां आवश्यक हैं</string>
+    <string name="title_activity_expert_login">साइन इन करें</string>
+    <string name="prompt_password">"पास वर्ड "</string>
+    <string name="title_activity_farmer_dashboard">किसान डैशबोर्ड</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="title_activity_expert_dashboard">विशेषज्ञ डैशबोर्ड</string>
+    <string name="title_activity_login">लॉग इन करें</string>
+    <string name="title_activity_farmer_login">साइन इन करे</string>
+    <string name="title_activity_login_demo">साइन इन करें</string>
+    <string name="askquery">विशेषज्ञ से प्रश्न पूछें</string>
+    <string name="asktoexpert">विशेषज्ञ को अपने  प्रश्न पूछें</string>
+    <string name="viewallaskedquery">सभी पूछे जाने वाले  पुराने प्रश्न देखें</string>
+    <string name="recentaskedquery">विशेषज्ञ को अपने सभी हाल ही में पूछे जाने वाले प्रश्न देखें</string>
+    <string name="expert_login">विशेषज्ञ लॉगिन</string>
+    <string name="farmer_login">किसान लॉगिन</string>
+    <string name="register">रजिस्टर</string>
+    <string name="answerquery">प्रश्न का उत्तर दें</string>
+    <string name="viewqueriesbyfarmer">किसान द्वारा पूछे जाने वाले प्रश्न देखें और उनका उत्तर दें</string>
+    <string name="viewallansweredquery">सभी प्रश्नों के उत्तर देखें</string>
+    <string name="viewallrecentanswers">किसान को सभी हाल ही उत्तर प्रश्न देखें</string>
+    <string name="logout">लोग आउट</string>
+    <string name="editprofile">प्रोफाइल एडिट करें</string>
+    <string name="enternumber">अपना मोबाइल नंबर दर्ज करें</string>
+    <string name="entername">अपना नाम दर्ज करें</string>
+    <string name="enterpass">अपना पासवर्ड डालें</string>
+    <string name="confirmpass">दुबारा पासवर्ड डालें</string>
+    <string name="farmerregistration">किसान पंजीकरण</string>
+    <string name="expertregistration">विशेषज्ञ पंजीकरण</string>
+    <string name="title_activity_splash_screen">" कृषि विशेषज्ञ में आपका स्वागत है"</string>
+    <string name="hindi">हिंदी</string>
+    <string name="gujarati">गुजराती</string>
+    <string name="english">English</string>
+</resources>
